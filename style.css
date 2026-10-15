@@ -1,0 +1,19 @@
+body {
+  background-color: #373c3c;
+  color: #ffffff;
+}
+
+h1 {
+  color: #6d6fe4;
+  padding: 9px;
+  border-radius: 9px;
+  background-color: #dd8bf2;
+  text-align: center;
+}
+
+.myBtn {
+  color : #a0d8ff;
+  background-color: #f25638;
+  border: none;
+  text-align: center;
+}
